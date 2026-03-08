@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://quality-halal-meat-suppliers.vercel.app/sitemap.xml
